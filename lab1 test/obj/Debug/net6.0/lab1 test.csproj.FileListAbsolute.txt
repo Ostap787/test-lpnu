@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Робочий стіл\Тестування\Lab1\lab1 test\obj\Debug\net6.0\lab1 test.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Робочий стіл\Тестування\Lab1\lab1 test\obj\Debug\net6.0\lab1 test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Робочий стіл\Тестування\Lab1\lab1 test\obj\Debug\net6.0\lab1 test.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Робочий стіл\Тестування\Lab1\lab1 test\obj\Debug\net6.0\lab1 test.AssemblyInfo.cs
+C:\Users\User\OneDrive\Робочий стіл\Тестування\Lab1\lab1 test\obj\Debug\net6.0\lab1 test.csproj.CoreCompileInputs.cache
+D:\LPNU\Тестування\Lab1\lab1 test\obj\Debug\net6.0\lab1 test.csproj.AssemblyReference.cache
+D:\LPNU\Тестування\Lab1\lab1 test\obj\Debug\net6.0\lab1 test.GeneratedMSBuildEditorConfig.editorconfig
+D:\LPNU\Тестування\Lab1\lab1 test\obj\Debug\net6.0\lab1 test.AssemblyInfoInputs.cache
+D:\LPNU\Тестування\Lab1\lab1 test\obj\Debug\net6.0\lab1 test.AssemblyInfo.cs
+D:\LPNU\Тестування\Lab1\lab1 test\obj\Debug\net6.0\lab1 test.csproj.CoreCompileInputs.cache
